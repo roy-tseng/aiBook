@@ -1,6 +1,6 @@
 # How to Use These Guidelines
 
-Those AI guideline files are frequently used by me for specific domains and engineering scenarios.
+Those AI guideline files are frequently used by me for specific domains and engineering scenarios. (I hope that I can have AI mindeset plug-in effect... mightbe..)
 
 below is "how to use" sample
 
