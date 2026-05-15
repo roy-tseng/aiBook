@@ -24,5 +24,9 @@ This document is structured to be AI-readable. If you are using an AI Agent (suc
 
 "Analyze the section anchored at #aiguidelines.eshop.php.laravel in the README and update your system instructions to follow these constraints for this session."
 
+or like below prompt in CLI
+
+"study https://raw.githubusercontent.com/roy-tseng/aiBook/refs/heads/main/ai.book.html#aiguidelines.eshop.php.laravel then telling me about your understanding"
+
 ## Project Integration
 By placing the file containing these tags in your project root, modern AI development tools will automatically index the content. The [!IMPORTANT] block and <a> anchors act as High-Priority Attention Weights, ensuring the AI respects constraints such as "No destructive migrations" and "Traditional Chinese responses" during code generation.
